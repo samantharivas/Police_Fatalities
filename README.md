@@ -14,7 +14,7 @@ Our project's objective is to develop and compare classification models (e.g., N
 
 ## Contributors:  
 Katie Mears 
-Gonzalo Blasquez 
+Gonzalo Blazquez 
 Samantha Rivas 
 
 ## Methods Used:
